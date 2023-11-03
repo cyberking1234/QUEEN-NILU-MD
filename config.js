@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;B3BRzR4a#p6lnZRUi5PKyow9_TNcc3mrmVlIStW0e2Ut_7JxRj5c' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://flazymodz_user:YEcZqlNUmexeKMDoVcfKSc5oTJdWn9OG@dpg-cl2m6d8310os73dj61m0-a.frankfurt-postgres.render.com/flazymodz'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94763375889'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true     //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
@@ -55,9 +55,9 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/8d9b28ad270713cb8d954.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = '🔥HELLO IM ALIVE🔥' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
