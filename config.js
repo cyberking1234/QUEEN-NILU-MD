@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = 'postgres://flazymodz_user:YEcZqlNUmexeKMDoVcfKSc5oTJdWn
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94763375889'
+global.OWNER_NUMBER = '94767533889'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
