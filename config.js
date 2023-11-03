@@ -55,9 +55,9 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/8d9b28ad270713cb8d954.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '🔥HELLO IM ALIVE🔥' // Set Alive Message
+global.ALIVE_MESSAGE = '' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
