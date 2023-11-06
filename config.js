@@ -25,7 +25,7 @@ global.POSTGRESQL_URL = 'postgres://mr_hassa_user:kKQULMYlJY3c0ineMFWvrC9jAFSHCh
 
 global.OWNER_NUMBER = '94765742244'
 
-global.OWNER_NAME = 'janiya__x'
+global.OWNER_NAME = 'Janiya_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
