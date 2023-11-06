@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'MR FLAZY'
 
 global.FOOTER = 'Queen Nilu 2023'
 
@@ -57,13 +57,13 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/8d9b28ad270713cb8d954.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '🔥HELLO IM ALIVE🔥' // Set Alive Message
+global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
-global.MAX_SIZE = '500' // Bot Uloading Max size 
+global.MAX_SIZE = '700' // Bot Uloading Max size 
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
