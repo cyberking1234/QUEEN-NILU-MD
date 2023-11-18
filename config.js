@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;ovojGKBJ#BMTg257hiB2jsU8U-6iv_msfov5hezBzclquTaRNLkM' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://flazymodz_user:YEcZqlNUmexeKMDoVcfKSc5oTJdWn9OG@dpg-cl2m6d8310os73dj61m0-a.frankfurt-postgres.render.com/flazymodz'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94763946287'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
